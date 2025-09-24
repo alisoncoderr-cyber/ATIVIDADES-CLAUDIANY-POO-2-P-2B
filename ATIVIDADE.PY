@@ -17,9 +17,3 @@ print("Marca:", meu_celular.marca)
 print("Modelo:", meu_celular.modelo)
 
 
-meu_celular = Celular()
-meu_celular.definir_marca("motorola")
-meu_celular.definir_modelo("Moto g52")
-
-print("Marca:", meu_celular.marca)
-print("Modelo:", meu_celular.modelo)
